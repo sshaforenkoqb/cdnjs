@@ -23,7 +23,7 @@
     "target": "git://github.com/jakerella/jquery-mockjax.git",
     "fileMap": [
       {
-        "basePath": "",
+        "basePath": "dist",
         "files": [
           "jquery.mockjax*.js"
         ]
